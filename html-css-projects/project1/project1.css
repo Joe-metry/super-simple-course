@@ -1,0 +1,39 @@
+  .price-class {
+    color: rgb(0, 118, 0);
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .shoe {
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .free {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .link {
+    font-size: 25px;
+  }
+  .cart-button {
+    height: 50px;
+    width: 160px;
+    font-size: 25px;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 25px;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+
+  .buy-button {
+    height: 50px;
+    width: 160px;
+    font-size: 25px;
+    background-color: rgb(255, 164, 28);
+    border: none;
+    border-radius: 25px;
+    margin-right: 8px;
+    cursor: pointer;
+
+  }
+
