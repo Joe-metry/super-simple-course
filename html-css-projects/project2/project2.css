@@ -1,0 +1,106 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+.course-title {
+    font-size:25px;
+    margin-bottom: 0;
+    line-height: 40px;
+    vertical-align: top;
+}
+
+.level {
+    color: gray;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.skill {
+    line-height: 25px;
+    width: 350px;
+}
+
+.start-button {
+    background-color: rgb(41, 161, 41);
+    border-radius: 15px;
+    border-style: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    color: white;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    transition: opacity 0.7s;
+
+}
+
+.start-button:hover {
+    opacity: 0.7;
+}
+
+.start-button:active {
+    background-color: green;
+    transition: background-color 0.2s;
+}
+
+.freecode {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.freecode-at {
+    color: gray;
+    font-size: 25px;
+    font-weight: 500;
+    transition: opacity 0.2s;
+}
+
+.freecode-at:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.freecode-at:active {
+    opacity: 0.5;
+}
+
+.freecode-timestamp {
+    color: gray;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 8px;
+}
+
+.webdev-task {
+    width: 700px;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.top-skill {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 550;
+    margin-top: 30px;
+}
+.chp-at {
+    color:rgb(84, 171, 206);
+    font-weight: 500;
+    margin-left: 8px;
+    transition: opacity 0.2s;
+}
+
+.chp-at:hover {
+    text-decoration: underline;
+}
+
+.chp-at:active {
+    opacity: .5;
+}
